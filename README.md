@@ -20,3 +20,6 @@ To run this project locally, follow these steps:
 
 3. Start the React app:
    `npm start`
+
+LIVE PREVIEW: 
+`https://react-quizly.netlify.app/`
